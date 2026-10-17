@@ -1,0 +1,6 @@
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\bin\Debug\CalculatorZotovaK41.Library.dll
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\bin\Debug\CalculatorZotovaK41.Library.pdb
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\obj\Debug\CalculatorZotovaK41.Library.csproj.AssemblyReference.cache
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\obj\Debug\CalculatorZotovaK41.Library.csproj.CoreCompileInputs.cache
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\obj\Debug\CalculatorZotovaK41.Library.dll
+C:\Users\Зотова.КВ\source\repos\CalculatorZotovaK41\CalculatorZotovaK41.Library\obj\Debug\CalculatorZotovaK41.Library.pdb
